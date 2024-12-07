@@ -136,6 +136,10 @@ ENV/
 env.bak/
 venv.bak/
 
+# Local environment files
+ENV
+.env
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -331,4 +335,3 @@ web/.webpack/
 web/.svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node
-
